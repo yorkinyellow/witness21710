@@ -1,0 +1,14 @@
+{
+  "name": "witness21710",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufa168 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufa168 เว็บเดิมพันออนไลน์ ที่เล่นง่าย ได้เงินจริง สมัครฟรีที่นี่",
+  "keywords": [
+    "ufa168 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufa168 เว็บเดิมพันออนไลน์ ที่เล่นง่าย ได้เงินจริง สมัครฟรีที่นี่"
+  ],
+  "repository": "https://github.com/yorkinyellow/witness21710",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
